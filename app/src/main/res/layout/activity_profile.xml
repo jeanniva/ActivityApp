@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ProfileActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nama : Ragil Aditya Kusumah"
+        android:background="#FDE4F2"
+        android:textColor="#1C1C1E"
+        android:gravity="center"
+        android:padding="10dp"
+        android:textSize="20dp"
+        android:layout_weight="1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NIM : 191103528"
+        android:background="#F9CEE7"
+        android:textColor="#1C1C1E"
+        android:gravity="center"
+        android:padding="10dp"
+        android:layout_weight="1"
+        android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Email : ragiladitya9e@gmail.com"
+        android:background="#F4B8DA"
+        android:textColor="#1C1C1E"
+        android:gravity="center"
+        android:padding="10dp"
+        android:layout_weight="1"
+        android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kelas : A3"
+        android:background="#EEA1CD"
+        android:textColor="#1C1C1E"
+        android:gravity="center"
+        android:padding="10dp"
+        android:layout_weight="1"
+        android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Alamat : Kab.Sambas-Kalbar"
+        android:background="#E68BBE"
+        android:textColor="#1C1C1E"
+        android:gravity="center"
+        android:padding="10dp"
+        android:layout_weight="1"
+        android:textSize="20dp" />
+
+    "
+
+
+</LinearLayout>
